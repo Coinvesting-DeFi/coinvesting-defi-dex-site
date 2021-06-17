@@ -85,7 +85,7 @@ const MenuItem = styled(ExternalLink)`
   }
 `
 
-const CODE_LINK = 'https://github.com/tarcysyo/'
+const CODE_LINK = 'https://github.com/Coinvesting-DeFi/'
 
 export default function Menu() {
   // const { account } = useActiveWeb3React()
@@ -109,7 +109,7 @@ export default function Menu() {
             <Info size={13} />
             About
           </MenuItem>          
-          <MenuItem id="link" href="https://ipfs.io/ipfs/QmdeVUQdUhtjBTsEM8cW22PckUDWwduXAKMTPBipbGhhzD">
+          <MenuItem id="link" href="https://ipfs.io/ipfs/QmatfvdyqwL4iXJ7UfTDs1LtWdcAjifyvapkF1nZoMJWMG">
             <AlertTriangle size={13} />
             Disclaimer
           </MenuItem>
@@ -117,7 +117,7 @@ export default function Menu() {
             <GitHub size={13} />
             GitHub
           </MenuItem>
-          <MenuItem id="link" href="https://ipfs.io/ipfs/QmdeVUQdUhtjBTsEM8cW22PckUDWwduXAKMTPBipbGhhzD">
+          <MenuItem id="link" href="https://ipfs.io/ipfs/QmVq4b7q5aHFedRUqzGjR3PdogXjqyxiXtiemGT33gnvb8">
             <BookOpen size={13} />
             Whitepaper
           </MenuItem>

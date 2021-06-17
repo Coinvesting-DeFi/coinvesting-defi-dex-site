@@ -1,5 +1,5 @@
 {
-  "background_color": "#fff",
+  "background_color": "#FFFFFF",
   "display": "standalone",
   "homepage_url": "https://coinvesting.app",
   "icons": [
@@ -20,5 +20,5 @@
   "name": "Coinvesting DeFi Dex",
   "short_name": "Coinvesting",
   "start_url": ".",
-  "theme_color": "#ffcc00"
+  "theme_color": "#FFCC00"
 }
