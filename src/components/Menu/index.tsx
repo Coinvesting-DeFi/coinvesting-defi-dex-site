@@ -1,5 +1,5 @@
 import React, { useRef } from 'react'
-import { BookOpen, Info, AlertTriangle, GitHub } from 'react-feather'
+import { BookOpen, Info, AlertTriangle, GitHub, Linkedin } from 'react-feather'
 import styled from 'styled-components'
 import { ReactComponent as MenuIcon } from '../../assets/images/menu.svg'
 // import { useActiveWeb3React } from '../../hooks'
@@ -117,6 +117,10 @@ export default function Menu() {
             <GitHub size={13} />
             GitHub
           </MenuItem>
+          <MenuItem id="link" href="https://coinvestingdefi.medium.com/coinvesting-defi-team-adabc769d399">
+            <Linkedin size={13} />
+            Team
+          </MenuItem>  
           <MenuItem id="link" href="https://ipfs.io/ipfs/QmVq4b7q5aHFedRUqzGjR3PdogXjqyxiXtiemGT33gnvb8">
             <BookOpen size={13} />
             Whitepaper

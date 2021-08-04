@@ -1,6 +1,6 @@
 {
   "name": "@coinvesting/dex-site",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Coinvesting DeFi DEX web interface.",
   "main": "index.js",
   "repository": {
@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@coinvestingdefi/dex-core": "^1.0.0",
-    "@coinvestingdefi/dex-default-token-list": "^1.0.0",
+    "@coinvestingdefi/dex-default-token-list": "^1.0.1",
     "@coinvestingdefi/dex-periphery": "^1.0.0",
     "@coinvestingdefi/dex-sdk": "^1.0.0",
     "@ethersproject/experimental": "^5.0.1",

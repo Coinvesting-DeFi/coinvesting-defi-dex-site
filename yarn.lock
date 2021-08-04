@@ -1199,10 +1199,10 @@
   resolved "https://registry.yarnpkg.com/@coinvestingdefi/dex-core/-/dex-core-1.0.0.tgz#0e378620d63340ce2414b48be1de86723d65bb6a"
   integrity sha512-ODBU96m/j5V0elsJthney58/At8WO6qRsPdjRsCa9hqB0AvDU8OKZRjxVUzOdC0WG7QQ7vnt4OPmY7e4HnEXmQ==
 
-"@coinvestingdefi/dex-default-token-list@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@coinvestingdefi/dex-default-token-list/-/dex-default-token-list-1.0.0.tgz#58399fd87bc9a51c3ba7bcd097dabe553df8b9f6"
-  integrity sha512-VmKdLAwlZHhss6xMk8lbNcxmRSyhMuekPlZfGGnTVUgJ8igSy8eBUA2brV/iyQzpFumvIM282qQvC4VRIFm2aw==
+"@coinvestingdefi/dex-default-token-list@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@coinvestingdefi/dex-default-token-list/-/dex-default-token-list-1.0.1.tgz#30675c2e8a10650c7d3a61ebbc38a1d741d86be7"
+  integrity sha512-3AauctdY2TDT8R7SmRPwi2sHZpVrgohAETgUD+c73isQVuD1qELbKSY8QS2y80t648aiDsFu3Ilo9AIrNSgNYQ==
 
 "@coinvestingdefi/dex-periphery@^1.0.0":
   version "1.0.0"
